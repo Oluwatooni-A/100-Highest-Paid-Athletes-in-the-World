@@ -1,6 +1,6 @@
 # 100-Highest-Paid-Athletes-in-the-World
 
-[Project Overview](#project_overview)
+[Project Overview](#project-overview)
 ---
 
 ![ChairmanInternal](https://github.com/user-attachments/assets/fae7af0b-a2b7-497e-851d-5002075d6d40)
